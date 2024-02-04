@@ -1,0 +1,4 @@
+name: SimpleAFK
+version: 1.0
+main: com.mmiddletonn.SimpleAFK
+api-version: 1.13
