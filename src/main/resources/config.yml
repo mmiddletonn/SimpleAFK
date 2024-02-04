@@ -1,0 +1,6 @@
+teleport:
+  world: world
+  x: 100
+  y: 65
+  z: 100
+delay: 60 # delay in seconds
